@@ -5,6 +5,7 @@ In this repository, you will find lesson files used for CoHack Chengdu - Modern 
 ## How to run lesson file
 
 `npm install`
+
 `npm run dev`
 
 ## Next steps

@@ -2,7 +2,7 @@
 
 In this repository, you will find lesson files used for CoHack Chengdu - Modern web with React lesson.
 
-## How to run lesson file
+## How to run lesson code
 
 `npm install`
 
